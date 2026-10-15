@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "materia": "Língua Portuguesa",
+    "topico": "Compreensão e Interpretação de Texto",
+    "enunciado": "Leia o trecho: 'A leitura é para quem não sabe escrever; escrever é para quem já leu demais.' Assinale a alternativa que melhor resume a ideia central do trecho.",
+    "alternativas": {
+      "A": "Ler é mais importante do que escrever.",
+      "B": "Escrever pressupõe muita leitura prévia.",
+      "C": "Quem lê muito perde a capacidade de escrever.",
+      "D": "Leitura e escrita são atividades independentes."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 2,
+    "materia": "Língua Portuguesa",
+    "topico": "Concordância Verbal",
+    "enunciado": "Assinale a frase em que a concordância verbal está correta de acordo com a norma-padrão.",
+    "alternativas": {
+      "A": "Fazem dez anos que estudo para concursos.",
+      "B": "Houveram muitos candidatos aprovados.",
+      "C": "Faz dez anos que estudo para concursos.",
+      "D": "Existiam muitas pessoas na fila, ontem."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 3,
+    "materia": "Matemática",
+    "topico": "Porcentagem",
+    "enunciado": "Um produto custava R$ 200,00 e sofreu um aumento de 15%. Qual é o novo preço do produto?",
+    "alternativas": {
+      "A": "R$ 215,00",
+      "B": "R$ 230,00",
+      "C": "R$ 225,00",
+      "D": "R$ 245,00"
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 4,
+    "materia": "Matemática",
+    "topico": "Raciocínio Lógico",
+    "enunciado": "Se todo A é B e nenhum B é C, então é necessariamente verdadeiro que:",
+    "alternativas": {
+      "A": "Algum A é C.",
+      "B": "Nenhum A é C.",
+      "C": "Todo C é A.",
+      "D": "Algum B é A somente se for C."
+    },
+    "gabarito": "B"
+  },
+  {
+    "id": 5,
+    "materia": "Informática",
+    "topico": "Editores de Texto",
+    "enunciado": "No Microsoft Word, qual atalho de teclado é usado para salvar um documento?",
+    "alternativas": {
+      "A": "Ctrl + P",
+      "B": "Ctrl + V",
+      "C": "Ctrl + S",
+      "D": "Ctrl + Z"
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 6,
+    "materia": "Informática",
+    "topico": "Segurança da Informação",
+    "enunciado": "O golpe eletrônico em que o criminoso se passa por pessoa ou empresa de confiança para obter dados sensíveis é chamado de:",
+    "alternativas": {
+      "A": "Phishing",
+      "B": "Backup",
+      "C": "Firewall",
+      "D": "Cache"
+    },
+    "gabarito": "A"
+  },
+  {
+    "id": 7,
+    "materia": "Direito Constitucional",
+    "topico": "Direitos Fundamentais",
+    "enunciado": "Segundo a Constituição Federal de 1988, são direitos sociais, EXCETO:",
+    "alternativas": {
+      "A": "Educação.",
+      "B": "Saúde.",
+      "C": "Liberdade de locomoção.",
+      "D": "Trabalho."
+    },
+    "gabarito": "C"
+  },
+  {
+    "id": 8,
+    "materia": "Direito Constitucional",
+    "topico": "Organização do Estado",
+    "enunciado": "A República Federativa do Brasil é formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal e tem como fundamento:",
+    "alternativas": {
+      "A": "A prevalência dos interesses econômicos regionais.",
+      "B": "A dignidade da pessoa humana.",
+      "C": "A centralização administrativa absoluta.",
+      "D": "O sistema parlamentarista de governo."
+    },
+    "gabarito": "B"
+  }
+]
